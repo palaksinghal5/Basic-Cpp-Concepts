@@ -1,2 +1,2 @@
-# Data-Structures-
+# Data-Structures
 C Programming Language
