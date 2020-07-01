@@ -1,2 +1,2 @@
-# Data-Structures
-C Programming Language
+## Basic C++ Concepts
+* Strings
